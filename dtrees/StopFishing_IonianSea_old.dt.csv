@@ -1,0 +1,39 @@
+#TreeVersion: 7
+#TreeType: StopFishing
+# id,variable,posx,posy,nchld,children...,value
+0,vesselSizeIs,2393,2239,5,1,0,2,1,3,2,4,3,5,4,0
+1,catchVolumeIs,2129,2473,2,6,0,7,1,0
+2,catchVolumeIs,2332,2475,2,8,0,9,1,0
+3,catchVolumeIs,2499,2474,2,10,0,11,1,0
+4,catchVolumeIs,2682,2476,2,12,0,13,1,0
+5,catchVolumeIs,2842,2483,2,14,0,15,1,0
+6,fuelTankIs,2059,2643,2,16,0,17,1,0
+7,probability,2168,2565,0,1
+8,fuelTankIs,2287,2642,2,18,0,19,1,0
+9,probability,2362,2564,0,1
+10,fuelTankIs,2439,2642,2,20,0,21,1,0
+11,probability,2526,2564,0,1
+12,fuelTankIs,2597,2647,2,22,0,23,1,0
+13,probability,2705,2574,0,1
+14,fuelTankIs,2765,2650,2,24,0,25,1,0
+15,probability,2874,2579,0,1
+16,endOfTheDayIs,1995,2755,2,26,0,27,1,0
+17,probability,2107,2716,0,1
+18,endOfTheDayIs,2207,2762,2,28,0,29,1,0
+19,probability,2315,2716,0,1
+20,todayIs,2366,2770,2,30,0,31,1,0
+21,probability,2459,2717,0,1
+22,todayIs,2519,2773,2,32,0,33,1,0
+23,probability,2616,2720,0,1
+24,todayIs,2689,2770,2,34,0,35,1,0
+25,probability,2800,2721,0,1
+26,probability,1952,2847,0,1
+27,probability,2068,2830,0,0
+28,probability,2143,2855,0,1
+29,probability,2254,2833,0,0
+30,probability,2319,2857,0,0
+31,probability,2429,2854,0,1
+32,probability,2534,2854,0,0
+33,probability,2641,2846,0,1
+34,probability,2751,2859,0,0
+35,probability,2882,2847,0,1

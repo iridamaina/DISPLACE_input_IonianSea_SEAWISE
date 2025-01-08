@@ -1,0 +1,52 @@
+# dyn_alloc_sce
+baseline focus_on_high_profit_grounds area_monthly_closure
+# static_avai_2
+baseline
+# biolsce
+1
+# fleetsce
+1
+# Frequency to apply growth (0:daily; 1:weekly; 2:monthly; 3:quarterly; 4:semester)
+3
+# Frequency to redispatch the pop (0:daily; 1:weekly; 2:monthly; 3:quarterly; 4:semester)
+3
+# a_graph
+612
+# nrow_coord
+19543
+# nrow_graph
+113766
+# a_port
+19501
+# grid res km
+1.5
+# is_individual_vessel_quotas
+0
+#  check all stocks before going fishing (otherwise, explicit pops only)
+0
+# Go Fishing DTree
+GoFishing_Seasonal_IonianSea_mytree17.dt.csv
+# Choose Ground DTree
+
+# Start Fishing DTree
+
+# Change Ground DTree
+
+# Stop Fishing DTree
+StopFishing_IonianSea.dt.csv
+# Change Port DTree
+
+# Use Dtrees
+1
+#tariff_pop
+
+#req_update_tariff_code
+
+#arbitrary_breaks_for_tariff
+
+#total_amount_credited
+
+#tariff_annual_
+
+# banned metiers
+

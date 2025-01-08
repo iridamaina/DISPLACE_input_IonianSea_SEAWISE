@@ -1,0 +1,6 @@
+LE_MET_level6 model_type
+0 if_LOA<20_a_else_b
+1 if_LOA<20_a_else_b
+2 if_LOA<20_a_else_b
+3 a*(kW^b)
+4 a*(LOA^b)

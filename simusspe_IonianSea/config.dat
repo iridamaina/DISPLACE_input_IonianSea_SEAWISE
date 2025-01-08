@@ -1,0 +1,21 @@
+# nbpops
+9
+# nbmets
+5
+# nbbenthospops
+2
+# implicit stocks
+6 7 8
+# calib the other landings per stock
+1 1 1 1 1 1 1 1 1
+# calib weight-at-szgroup per stock
+1 1 3 1 2 3 1 1 1
+# calib the cpue multiplier per stock
+1 1 1 1 1 1 1 1 1
+# interesting harbours
+
+# implicit stocks level 2
+
+# grouped tacs (a group id for each stock e.g. 1 1 2 2 3 4 if 6 stocks but only 4 tacs)
+
+# nbcp coupling pop ids
